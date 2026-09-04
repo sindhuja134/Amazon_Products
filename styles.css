@@ -40,7 +40,7 @@ body {
 }
 
 .card2 img:hover{
-    transform: scale(1.02);
+    transform: scale(0.5);
 }
 .card3 img{
      
