@@ -63,8 +63,8 @@ body {
     
  
 }
-.card4 img:hover{
-    transform: translateY(-100px);
+.card4 img:hover {
+    transform: translateY(-20px);
 }
 .card h2 {
     font-size: 20px;
