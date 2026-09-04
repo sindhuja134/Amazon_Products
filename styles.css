@@ -19,6 +19,7 @@ body {
     width: 200px;
     height: 300px;
      transition-duration: 2s;
+     
  
 }
 .card1 img:hover{
@@ -28,18 +29,20 @@ body {
      
     width: 200px;
     height: 300px;
-     transition-duration: 3s;
+     transition-duration: 2s;
+      
  
 }
 
 .card2 img:hover{
-    transform: scale(2.2);
+    transform: scale(1.0);
 }
 .card3 img{
      
     width: 200px;
     height: 300px;
-     transition-duration: 3s;
+     transition-duration: 2s;
+   
  
 }
 .card3 img:hover{
@@ -49,7 +52,8 @@ body {
      
     width: 200px;
     height: 300px;
-     transition-duration: 3s;
+     transition-duration: 2s;
+    
  
 }
 .card4 img:hover{
